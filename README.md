@@ -74,16 +74,6 @@ Fresher actively seeking Backend Development roles — building reliable backend
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shreyas071845&show_icons=true&theme=tokyonight&hide_border=true" alt="Shreyas' GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyas071845&theme=tokyonight&hide_border=true" alt="Shreyas' GitHub Streak" height="165"/>
-
-</div>
-
----
 
 <div align="center">
 
