@@ -1,84 +1,92 @@
-<h1 align="center">Hi, I'm Shreyas Bhat 👋</h1>
-<h3 align="center">Backend Developer | Go & Microservices | Distributed Systems Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  🎓 Fresher actively looking for Backend Development opportunities<br/>
-  🔧 I build backend systems with <b>Go</b>, <b>gRPC</b>, <b>PostgreSQL/Cassandra</b>, and clean microservice architecture
-</p>
+# Shreyas Bhat
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shreyasbhat19" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:bhatshreyas2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+**Backend Developer · Go & Microservices · Distributed Systems**
+
+Fresher actively seeking Backend Development roles — building reliable backend systems with Go, gRPC, PostgreSQL, and Cassandra.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyasbhat19)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhatshreyas2004@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shreyas071845)
+
+</div>
 
 ---
 
-### 🚀 Featured Projects
+### About Me
+
+- 🎯 Looking for full-time **Backend Engineering** roles
+- 🛠️ Comfortable building REST APIs, gRPC services, and event-driven microservices
+- 🗄️ Experience with relational (PostgreSQL) and wide-column (Cassandra) databases
+- 🐳 Familiar with containerizing services using Docker
+- 📚 Currently deepening my knowledge of distributed systems design
+
+---
+
+### Tech Stack
+
+<div align="center">
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+### Featured Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-**[Stock Market Data Aggregation Service](https://github.com/Shreyas071845/Stock_market-Data-Aggregation-Service)**
-
-RESTful service in Go + Apache Cassandra that ingests raw 1-minute stock candle data and serves OHLCV aggregates across 6 timeframes (1m → 1d).
-
-`Go` `Cassandra` `Gin` `Docker` `REST API`
-
-</td>
-<td width="50%" valign="top">
-
-**[Microservices](https://github.com/Shreyas071845/Microservices)**
-
-Backend project demonstrating service-to-service communication using gRPC and protobuf, with independent, containerized services.
-
-`Go` `gRPC` `Protobuf` `Microservices`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Pet Clinic Management System](https://github.com/Shreyas071845/pet-clinic)**
-
-Backend for managing clinic records with JWT authentication, file uploads, and structured logging.
-
-`Go` `PostgreSQL` `JWT` `REST API`
-
-</td>
-<td width="50%" valign="top">
-
-<!-- Add a 4th project here if you have one, or delete this cell -->
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Shreyas071845/Stock_market-Data-Aggregation-Service">📈 Stock Market Data Aggregation Service</a></h4>
+      A RESTful service in Go and Apache Cassandra that ingests raw 1-minute OHLCV candle data and serves aggregated results across 6 timeframes (1m → 1d).
+      <br/><br/>
+      <code>Go</code> <code>Cassandra</code> <code>Gin</code> <code>Docker</code> <code>REST API</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Shreyas071845/Microservices">🔗 Go Microservices with gRPC</a></h4>
+      Three independent, containerized backend services demonstrating service-to-service communication using gRPC and Protocol Buffers.
+      <br/><br/>
+      <code>Go</code> <code>gRPC</code> <code>Protobuf</code> <code>Docker</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Shreyas071845/pet-clinic">🐾 Pet Clinic Management System</a></h4>
+      Backend for managing clinic records, featuring JWT authentication, file uploads, and structured logging.
+      <br/><br/>
+      <code>Go</code> <code>PostgreSQL</code> <code>JWT</code> <code>REST API</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Shreyas071845/Weather-Data-Visualization">🌤️ Weather Data Visualization</a></h4>
+      A tool for visualizing weather data trends over time.
+      <br/><br/>
+      <code>Data Visualization</code>
+    </td>
+  </tr>
 </table>
 
 ---
 
-### 🛠️ Tech Stack
+### GitHub Stats
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shreyas071845&show_icons=true&theme=tokyonight&hide_border=true" alt="Shreyas' GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyas071845&theme=tokyonight&hide_border=true" alt="Shreyas' GitHub Streak" height="165"/>
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shreyas071845&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
+💬 **Open to Backend Developer roles** — feel free to connect on <a href="https://www.linkedin.com/in/shreyasbhat19">LinkedIn</a> or reach out via <a href="mailto:bhatshreyas2004@gmail.com">email</a>.
 
----
-
-<p align="center"><i>Open to backend developer roles — feel free to connect on LinkedIn or reach out by email.</i></p>
+</div>
